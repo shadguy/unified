@@ -42,6 +42,7 @@ A curated list of awesome NWNX projects and shiny things, and other adjacent NWN
 - [A Carpathian Nightmare](https://github.com/milliorn/nwn-module-a-carpathian-nightmare) - Repository for the Neverwinter Nights module A Carpathian Nightmare.
 - [Anphillia](https://github.com/mtijanic/anphillia) - Curated set of scripts usable by other projects
 - [Dungeon Eternal X](https://github.com/urothis/nwn-module-DungeonEternalX) - High level action module
+- [Knights of Noromath](https://drive.google.com/drive/folders/1t7FnyIcD38AwwgutCe6VSaepKtXJ7gUB) - Complete PW, built to 81913.14
 - [silm](https://github.com/silm/silm/) - Full 1.69 module; not usable in NWN:EE as-is.
 - [The Frozen North](https://github.com/b5635/the-frozen-north) -  A low level action PW set around Neverwinter and the Wailing Death. 
 - \[C#\] [NWN.FinalFantasy](https://github.com/zunath/NWN.FinalFantasy) - Server-side C# code used in the Neverwinter Nights Final Fantasy 8: Hortus Memoria module.
